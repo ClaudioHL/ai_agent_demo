@@ -1,0 +1,11 @@
+--- Research Output ---
+Timestamp: 2026-10-08 18:27:08
+
+Topic: Spinosaurus
+
+Summary: Spinosaurus ('spine lizard') is a genus of large spinosaurid theropod dinosaur known for a crocodile-like snout, a large sail-like spine, and adaptations linked to life around water. Recent research, including bone microstructure studies showing pachyostosis (extreme bone density similar to penguins, hippos and manatees), suggests it may have spent much time submerged and been more aquatic than many scientists expected. Some researchers propose that juveniles may have been more terrestrial and adults more aquatic, which could reconcile competing views. The sail may have had multiple roles, including display when visible above water while swimming. The debate remains ongoing.
+
+Sources: https://en.wikipedia.org/wiki/Spinosaurus; web search results on Spinosaurus aquatic lifestyle research
+
+Tools used: wikipedia, search, save_text_to_file
+
